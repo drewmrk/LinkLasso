@@ -1,0 +1,6 @@
+disabled_rules:
+    - trailing_whitespace
+    - force_try
+
+analyzer_rules:
+    - explicit_self
